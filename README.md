@@ -16,6 +16,7 @@ DSA practice
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sarthak867/DSA/tree/master/0007-reverse-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
 |  |
