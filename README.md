@@ -21,6 +21,7 @@ DSA practice
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthak867/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sarthak867/DSA/tree/master/0007-reverse-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
@@ -81,11 +82,13 @@ DSA practice
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthak867/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthak867/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sarthak867/DSA/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthak867/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 ## Heap (Priority Queue)
 |  |
