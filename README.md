@@ -9,6 +9,7 @@ DSA practice
 | [0001-two-sum](https://github.com/sarthak867/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
+| [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -78,6 +79,7 @@ DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 ## Ordered Set
 |  |
@@ -115,4 +117,8 @@ DSA practice
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak867/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
