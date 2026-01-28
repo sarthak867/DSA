@@ -5,7 +5,7 @@ public:
         string str = to_string(x);
         string s = str;
         reverse(str.begin(), str.end());
-        if(s == str) return true;
-        return false;
+        
+        return s==str;
     }
 };
