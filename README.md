@@ -9,6 +9,7 @@ DSA practice
 | [0001-two-sum](https://github.com/sarthak867/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sarthak867/DSA/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarthak867/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -37,6 +38,7 @@ DSA practice
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sarthak867/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
