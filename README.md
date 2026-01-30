@@ -12,6 +12,7 @@ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthak867/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthak867/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
@@ -160,6 +161,7 @@ DSA practice
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
 ## Merge Sort
 |  |
 | ------- |
