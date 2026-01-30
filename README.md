@@ -39,6 +39,7 @@ DSA practice
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak867/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/sarthak867/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sarthak867/DSA/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarthak867/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -157,6 +158,7 @@ DSA practice
 | [0005-longest-palindromic-substring](https://github.com/sarthak867/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sarthak867/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
+| [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,4 +190,8 @@ DSA practice
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/sarthak867/DSA/tree/master/2413-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
