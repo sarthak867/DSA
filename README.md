@@ -33,6 +33,7 @@ DSA practice
 | [0009-palindrome-number](https://github.com/sarthak867/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sarthak867/DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak867/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Geometry
 |  |
