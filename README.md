@@ -15,6 +15,7 @@ DSA practice
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -57,6 +58,7 @@ DSA practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthak867/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 ## Divide and Conquer
 |  |
