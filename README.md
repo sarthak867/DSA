@@ -9,6 +9,7 @@ DSA practice
 | [0001-two-sum](https://github.com/sarthak867/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sarthak867/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sarthak867/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sarthak867/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthak867/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
@@ -105,6 +106,7 @@ DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthak867/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
@@ -161,6 +163,7 @@ DSA practice
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sarthak867/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sarthak867/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/sarthak867/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Dynamic Programming
