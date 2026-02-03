@@ -9,15 +9,18 @@ public:
             p1 = 1;
             i++;
         }
+        if(!p1) return false;
         while (i + 1 < n && nums[i + 1] < nums[i]) {
             p2 = 1;
             i++;
         }
+        if(!p2) return false;
         while (i + 1 < n && nums[i + 1] > nums[i]) {
             p3 = 1;
             i++;
         }
+        if(!p3) return false;
 
-        return (i == n - 1 && p1 && p2 && p3);
+        return (i == n - 1);
     }
 };
