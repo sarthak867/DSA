@@ -221,4 +221,8 @@ DSA practice
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sarthak867/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
