@@ -165,6 +165,7 @@ DSA practice
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sarthak867/DSA/tree/master/0058-length-of-last-word) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
@@ -183,10 +184,12 @@ DSA practice
 | [0005-longest-palindromic-substring](https://github.com/sarthak867/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
