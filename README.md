@@ -71,6 +71,7 @@ DSA practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Tree
 |  |
 | ------- |
@@ -78,6 +79,7 @@ DSA practice
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -85,6 +87,7 @@ DSA practice
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -97,10 +100,12 @@ DSA practice
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak867/DSA/tree/master/0011-container-with-most-water) |
+| [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 ## Binary Indexed Tree
@@ -228,4 +233,8 @@ DSA practice
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sarthak867/DSA/tree/master/0175-combine-two-tables) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
