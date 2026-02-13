@@ -80,6 +80,7 @@ DSA practice
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -88,6 +89,7 @@ DSA practice
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -96,11 +98,13 @@ DSA practice
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
