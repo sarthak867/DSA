@@ -199,6 +199,7 @@ DSA practice
 | [0005-longest-palindromic-substring](https://github.com/sarthak867/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
