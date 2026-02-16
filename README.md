@@ -14,6 +14,7 @@ DSA practice
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sarthak867/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/sarthak867/DSA/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -34,6 +35,7 @@ DSA practice
 | [0001-two-sum](https://github.com/sarthak867/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak867/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sarthak867/DSA/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/sarthak867/DSA/tree/master/0041-first-missing-positive) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
