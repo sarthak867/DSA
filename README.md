@@ -210,6 +210,7 @@ DSA practice
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/sarthak867/DSA/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -272,4 +273,8 @@ DSA practice
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Memoization
+|  |
+| ------- |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/sarthak867/DSA/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 <!---LeetCode Topics End-->
