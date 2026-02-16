@@ -46,6 +46,7 @@ DSA practice
 | [0009-palindrome-number](https://github.com/sarthak867/DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sarthak867/DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak867/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
@@ -161,6 +162,7 @@ DSA practice
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -179,6 +181,7 @@ DSA practice
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/sarthak867/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
@@ -218,6 +221,7 @@ DSA practice
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
