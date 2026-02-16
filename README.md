@@ -75,6 +75,7 @@ DSA practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/sarthak867/DSA/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
@@ -222,6 +223,7 @@ DSA practice
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/sarthak867/DSA/tree/master/0190-reverse-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
