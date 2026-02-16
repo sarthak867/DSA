@@ -100,12 +100,14 @@ DSA practice
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -277,4 +279,8 @@ DSA practice
 |  |
 | ------- |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/sarthak867/DSA/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
