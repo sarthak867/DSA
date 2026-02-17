@@ -93,6 +93,7 @@ DSA practice
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -102,6 +103,7 @@ DSA practice
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -121,6 +123,7 @@ DSA practice
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -161,6 +164,7 @@ DSA practice
 | [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthak867/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthak867/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -230,6 +234,7 @@ DSA practice
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
