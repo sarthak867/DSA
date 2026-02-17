@@ -230,6 +230,7 @@ DSA practice
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
+| [0401-binary-watch](https://github.com/sarthak867/DSA/tree/master/0401-binary-watch) |
 ## Merge Sort
 |  |
 | ------- |
@@ -239,6 +240,7 @@ DSA practice
 | ------- |
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/sarthak867/DSA/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/sarthak867/DSA/tree/master/0401-binary-watch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
 |  |
