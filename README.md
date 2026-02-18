@@ -20,6 +20,7 @@ DSA practice
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthak867/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -150,6 +151,7 @@ DSA practice
 | ------- |
 | [0015-3sum](https://github.com/sarthak867/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
@@ -260,9 +262,11 @@ DSA practice
 | [0401-binary-watch](https://github.com/sarthak867/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sarthak867/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
