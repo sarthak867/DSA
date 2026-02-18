@@ -1,27 +1,27 @@
-const auto __ = []()
-{
-    struct Leetcode
-    {
-        static void _() { std::ofstream("display_runtime.txt") << 0 << '\n'; }
-    };
-    std::atexit(&Leetcode::_);
-    return 0;
-}();
+// const auto __ = []()
+// {
+//     struct Leetcode
+//     {
+//         static void _() { std::ofstream("display_runtime.txt") << 0 << '\n'; }
+//     };
+//     std::atexit(&Leetcode::_);
+//     return 0;
+// }();
 
 class Solution {
 public:
     int bestClosingTime(string customers) {
-        unordered_map<char, int> freq;
+        int c1 =0 , c2=0; 
         for(char c : customers){
-            freq[c]++;
+            (c=='Y')?c1++:c2++;
         }
-        int pan = freq['Y'];
+        int pan = c1;
         int time = 0;
         for(int i =0 ; i<customers.size(); i++){
-            if(customers[i]=='Y') freq['Y']--;
-            else freq['Y']++;
-            if(freq['Y']<pan){
-                pan = freq['Y'];
+            if(customers[i]=='Y') c1--;
+            else c1++;
+            if(c1<pan){
+                pan = c1;
                 time = i+1;
             }
         }
