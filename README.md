@@ -26,6 +26,7 @@ DSA practice
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
+| [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthak867/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -151,6 +152,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
+| [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Ordered Set
 |  |
@@ -184,6 +186,7 @@ DSA practice
 | ------- |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
+| [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -238,6 +241,7 @@ DSA practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
 | ------- |
