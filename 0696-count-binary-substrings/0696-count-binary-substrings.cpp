@@ -9,7 +9,6 @@ public:
 
         for(int i = 0; i < n - 1; i++) {
 
-            // group change detect karo
             if(s[i] != s[i+1]) {
 
                 char leftChar = s[i];
