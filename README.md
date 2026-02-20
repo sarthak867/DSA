@@ -15,6 +15,7 @@ DSA practice
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sarthak867/DSA/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -255,6 +256,7 @@ DSA practice
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/sarthak867/DSA/tree/master/0401-binary-watch) |
 ## Merge Sort
 |  |
