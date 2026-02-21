@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> p = {2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31};
+    vector<int> p = {2, 3, 5, 7, 11, 13, 17, 19};
 
     bool prime(int n){
         int set = __builtin_popcount(n);
