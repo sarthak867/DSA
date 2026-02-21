@@ -19,6 +19,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0414-third-maximum-number](https://github.com/sarthak867/DSA/tree/master/0414-third-maximum-number) |
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -157,6 +158,7 @@ DSA practice
 | ------- |
 | [0015-3sum](https://github.com/sarthak867/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
+| [0414-third-maximum-number](https://github.com/sarthak867/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthak867/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0761-special-binary-string](https://github.com/sarthak867/DSA/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
