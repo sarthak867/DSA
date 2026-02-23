@@ -16,6 +16,7 @@ DSA practice
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sarthak867/DSA/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -97,6 +98,7 @@ DSA practice
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak867/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sarthak867/DSA/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/sarthak867/DSA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -254,6 +256,7 @@ DSA practice
 | [0005-longest-palindromic-substring](https://github.com/sarthak867/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/sarthak867/DSA/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
