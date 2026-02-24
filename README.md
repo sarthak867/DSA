@@ -15,6 +15,7 @@ DSA practice
 | [0035-search-insert-position](https://github.com/sarthak867/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/sarthak867/DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/sarthak867/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -281,6 +282,7 @@ DSA practice
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/sarthak867/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/sarthak867/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/sarthak867/DSA/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
