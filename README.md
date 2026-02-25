@@ -45,6 +45,7 @@ DSA practice
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/sarthak867/DSA/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/sarthak867/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@ DSA practice
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3769-sort-integers-by-binary-reflection](https://github.com/sarthak867/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Ordered Set
 |  |
 | ------- |
