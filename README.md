@@ -224,6 +224,7 @@ DSA practice
 | ------- |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -252,6 +253,7 @@ DSA practice
 | [0696-count-binary-substrings](https://github.com/sarthak867/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sarthak867/DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -319,6 +321,7 @@ DSA practice
 | [0868-binary-gap](https://github.com/sarthak867/DSA/tree/master/0868-binary-gap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 ## Counting
