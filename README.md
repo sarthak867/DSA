@@ -85,6 +85,7 @@ DSA practice
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarthak867/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthak867/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/sarthak867/DSA/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Geometry
 |  |
 | ------- |
@@ -213,6 +214,7 @@ DSA practice
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarthak867/DSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/sarthak867/DSA/tree/master/0394-decode-string) |
+| [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/sarthak867/DSA/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
