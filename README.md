@@ -225,6 +225,7 @@ DSA practice
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarthak867/DSA/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/sarthak867/DSA/tree/master/0394-decode-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/sarthak867/DSA/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -239,6 +240,7 @@ DSA practice
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
@@ -271,6 +273,7 @@ DSA practice
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sarthak867/DSA/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/sarthak867/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
