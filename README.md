@@ -33,6 +33,7 @@ DSA practice
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sarthak867/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthak867/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -380,6 +381,7 @@ DSA practice
 | [0048-rotate-image](https://github.com/sarthak867/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/sarthak867/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Database
 |  |
 | ------- |
