@@ -93,6 +93,7 @@ DSA practice
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthak867/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/sarthak867/DSA/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 ## Geometry
 |  |
@@ -313,6 +314,7 @@ DSA practice
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthak867/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
+| [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Stack
 |  |
 | ------- |
