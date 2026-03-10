@@ -321,6 +321,7 @@ DSA practice
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthak867/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthak867/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthak867/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Stack
 |  |
@@ -409,6 +410,7 @@ DSA practice
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthak867/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthak867/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
