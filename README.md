@@ -82,6 +82,7 @@ DSA practice
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarthak867/DSA/tree/master/0273-integer-to-english-words) |
 | [0343-integer-break](https://github.com/sarthak867/DSA/tree/master/0343-integer-break) |
+| [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthak867/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -456,4 +457,16 @@ DSA practice
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Randomized
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
