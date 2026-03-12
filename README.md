@@ -115,6 +115,7 @@ DSA practice
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -181,6 +182,7 @@ DSA practice
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -433,10 +435,12 @@ DSA practice
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bucket Sort
 |  |
@@ -471,4 +475,8 @@ DSA practice
 |  |
 | ------- |
 | [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
