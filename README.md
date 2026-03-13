@@ -45,6 +45,7 @@ DSA practice
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthak867/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/sarthak867/DSA/tree/master/3637-trionic-array-i) |
@@ -96,6 +97,7 @@ DSA practice
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sarthak867/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthak867/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/sarthak867/DSA/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
@@ -115,6 +117,7 @@ DSA practice
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Divide and Conquer
 |  |
@@ -182,6 +185,7 @@ DSA practice
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Indexed Tree
 |  |
@@ -244,6 +248,7 @@ DSA practice
 | [0451-sort-characters-by-frequency](https://github.com/sarthak867/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
