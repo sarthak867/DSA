@@ -287,6 +287,7 @@ DSA practice
 | [0761-special-binary-string](https://github.com/sarthak867/DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak867/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sarthak867/DSA/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -354,6 +355,7 @@ DSA practice
 | [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/sarthak867/DSA/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak867/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 ## Merge Sort
