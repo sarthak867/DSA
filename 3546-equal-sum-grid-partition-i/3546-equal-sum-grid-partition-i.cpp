@@ -22,8 +22,8 @@ public:
                 sum+= grid[j][i];
             }
             possiblesum[sum]++;
+            if(possiblesum.count(totalsum)) return true;
         }
-        if(possiblesum.count(totalsum)) return true;
         return false;
     }
 };
