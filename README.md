@@ -56,6 +56,7 @@ DSA practice
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarthak867/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthak867/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/sarthak867/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak867/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -77,6 +78,7 @@ DSA practice
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/sarthak867/DSA/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -425,6 +427,7 @@ DSA practice
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarthak867/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Matrix
 |  |
@@ -441,6 +444,7 @@ DSA practice
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthak867/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sarthak867/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarthak867/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthak867/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak867/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Database
@@ -464,6 +468,7 @@ DSA practice
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthak867/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sarthak867/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarthak867/DSA/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
 ## Monotonic Stack
 |  |
