@@ -43,6 +43,7 @@ DSA practice
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
@@ -200,6 +201,7 @@ DSA practice
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak867/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -322,6 +324,7 @@ DSA practice
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/sarthak867/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
@@ -357,6 +360,7 @@ DSA practice
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthak867/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthak867/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthak867/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthak867/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -443,6 +447,7 @@ DSA practice
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak867/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthak867/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/sarthak867/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthak867/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthak867/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -492,6 +497,7 @@ DSA practice
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bucket Sort
