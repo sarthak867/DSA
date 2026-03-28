@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
     static const int MAXV = 5000;
     static const int MOD = 1000000007;
