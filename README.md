@@ -207,6 +207,7 @@ DSA practice
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sarthak867/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Indexed Tree
 |  |
@@ -334,6 +335,7 @@ DSA practice
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthak867/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak867/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sarthak867/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
@@ -551,4 +553,8 @@ DSA practice
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/sarthak867/DSA/tree/master/1622-fancy-sequence) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/sarthak867/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
