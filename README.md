@@ -64,6 +64,7 @@ DSA practice
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthak867/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/sarthak867/DSA/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak867/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak867/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/sarthak867/DSA/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sarthak867/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
@@ -140,6 +141,7 @@ DSA practice
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak867/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +246,7 @@ DSA practice
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sarthak867/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak867/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sarthak867/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Ordered Set
 |  |
@@ -380,6 +383,7 @@ DSA practice
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthak867/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthak867/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak867/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak867/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 ## Stack
 |  |
