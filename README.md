@@ -320,6 +320,7 @@ DSA practice
 | [0012-integer-to-roman](https://github.com/sarthak867/DSA/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sarthak867/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sarthak867/DSA/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak867/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sarthak867/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
@@ -369,6 +370,7 @@ DSA practice
 | [0018-4sum](https://github.com/sarthak867/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarthak867/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarthak867/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak867/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/sarthak867/DSA/tree/master/0696-count-binary-substrings) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
@@ -579,5 +581,6 @@ DSA practice
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak867/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sarthak867/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
