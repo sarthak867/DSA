@@ -3,7 +3,7 @@ public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
         int s = INT_MAX;
         long long ts =0;
-        long long neg =0;
+        int neg =0;
         for(auto& row : matrix){
             for(int i =0 ; i< row.size(); i++){
                 if(row[i]<0) {
