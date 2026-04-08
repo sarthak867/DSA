@@ -8,7 +8,7 @@ public:
             }
         }
         for (int i : nums) {
-            ans = ans ^ i;
+            ans ^= i;
         }
         return ans;
     }
