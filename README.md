@@ -76,6 +76,7 @@ DSA practice
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak867/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3668-restore-finishing-order](https://github.com/sarthak867/DSA/tree/master/3668-restore-finishing-order) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sarthak867/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/sarthak867/DSA/tree/master/3769-sort-integers-by-binary-reflection) |
 ## Hash Table
 |  |
@@ -101,6 +102,7 @@ DSA practice
 | [3668-restore-finishing-order](https://github.com/sarthak867/DSA/tree/master/3668-restore-finishing-order) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sarthak867/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sarthak867/DSA/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
