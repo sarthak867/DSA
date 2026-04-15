@@ -53,6 +53,7 @@ DSA practice
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak867/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak867/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
@@ -374,6 +375,7 @@ DSA practice
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/sarthak867/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthak867/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak867/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthak867/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak867/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
