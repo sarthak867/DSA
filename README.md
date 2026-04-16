@@ -68,6 +68,7 @@ DSA practice
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak867/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3488-closest-equal-element-queries](https://github.com/sarthak867/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sarthak867/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -101,6 +102,7 @@ DSA practice
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak867/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
+| [3488-closest-equal-element-queries](https://github.com/sarthak867/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sarthak867/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3668-restore-finishing-order](https://github.com/sarthak867/DSA/tree/master/3668-restore-finishing-order) |
@@ -161,6 +163,7 @@ DSA practice
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3488-closest-equal-element-queries](https://github.com/sarthak867/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sarthak867/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
