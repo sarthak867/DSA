@@ -13,21 +13,19 @@ public:
         int n = nums.size();
         unordered_map<int, vector<int>> mp;
 
-        // store all indices first
         for (int i = 0; i < n; i++) {
             mp[nums[i]].push_back(i);
         }
 
         int ans = INT_MAX;
 
-        // only right side check
         for (int i = 0; i < n; i++) {
             int r = rev(nums[i]);
 
             if (!mp.count(r)) continue;
 
             for (int j : mp[r]) {
-                if (j > i) {  //only right side
+                if (j > i) {  
                     ans = min(ans, j - i);
                     if (ans == 1) return 1;
                 }
