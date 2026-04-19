@@ -45,6 +45,7 @@ DSA practice
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak867/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthak867/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sarthak867/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak867/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthak867/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/sarthak867/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -164,6 +165,7 @@ DSA practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak867/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -411,6 +413,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/sarthak867/DSA/tree/master/0696-count-binary-substrings) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak867/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak867/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
