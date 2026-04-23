@@ -59,6 +59,7 @@ DSA practice
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak867/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
@@ -105,6 +106,7 @@ DSA practice
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak867/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
 | [3488-closest-equal-element-queries](https://github.com/sarthak867/DSA/tree/master/3488-closest-equal-element-queries) |
@@ -559,6 +561,7 @@ DSA practice
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/sarthak867/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthak867/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthak867/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
