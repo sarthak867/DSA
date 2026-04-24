@@ -1,13 +1,13 @@
 class Solution {
 public:
     int furthestDistanceFromOrigin(string moves) {
-        int f =0;
-        int e=0;
-        for(char c : moves){
-            if(c=='L') f--;
-            else if(c=='R') f++;
-            else e++;
+        int o=0,b=0;
+        for (char c : moves) {
+            if (c == 'L') o--;
+            else if (c == 'R') o++;
+            else b++;
         }
-        return abs(f) +e;
+
+        return abs(o) + b;
     }
 };
