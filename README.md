@@ -394,6 +394,7 @@ DSA practice
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak867/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/sarthak867/DSA/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/sarthak867/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak867/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3365-rearrange-k-substrings-to-form-target-string](https://github.com/sarthak867/DSA/tree/master/3365-rearrange-k-substrings-to-form-target-string) |
@@ -505,6 +506,7 @@ DSA practice
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2833-furthest-point-from-origin](https://github.com/sarthak867/DSA/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/sarthak867/DSA/tree/master/3713-longest-balanced-substring-i) |
 ## Number Theory
 |  |
