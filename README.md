@@ -41,6 +41,7 @@ DSA practice
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthak867/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak867/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthak867/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -220,6 +221,7 @@ DSA practice
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthak867/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
@@ -231,6 +233,7 @@ DSA practice
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -540,6 +543,7 @@ DSA practice
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sarthak867/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sarthak867/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak867/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -600,6 +604,7 @@ DSA practice
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sarthak867/DSA/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sarthak867/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
