@@ -53,6 +53,7 @@ DSA practice
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthak867/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/sarthak867/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak867/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sarthak867/DSA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -145,6 +146,7 @@ DSA practice
 | [1622-fancy-sequence](https://github.com/sarthak867/DSA/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak867/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/sarthak867/DSA/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/sarthak867/DSA/tree/master/2469-convert-the-temperature) |
@@ -291,6 +293,7 @@ DSA practice
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak867/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak867/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sarthak867/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak867/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
@@ -550,6 +553,7 @@ DSA practice
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sarthak867/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/sarthak867/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak867/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/sarthak867/DSA/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sarthak867/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
