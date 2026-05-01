@@ -29,6 +29,7 @@ DSA practice
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sarthak867/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/sarthak867/DSA/tree/master/0414-third-maximum-number) |
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
@@ -138,6 +139,7 @@ DSA practice
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarthak867/DSA/tree/master/0273-integer-to-english-words) |
 | [0343-integer-break](https://github.com/sarthak867/DSA/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
 | [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
@@ -450,6 +452,7 @@ DSA practice
 | [0032-longest-valid-parentheses](https://github.com/sarthak867/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
 | [0343-integer-break](https://github.com/sarthak867/DSA/tree/master/0343-integer-break) |
+| [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
