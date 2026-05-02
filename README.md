@@ -144,6 +144,7 @@ DSA practice
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthak867/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak867/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
@@ -453,6 +454,7 @@ DSA practice
 | [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
 | [0343-integer-break](https://github.com/sarthak867/DSA/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
