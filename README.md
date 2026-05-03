@@ -395,6 +395,7 @@ DSA practice
 | [0696-count-binary-substrings](https://github.com/sarthak867/DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sarthak867/DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/sarthak867/DSA/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak867/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -671,6 +672,7 @@ DSA practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak867/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/sarthak867/DSA/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sarthak867/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
