@@ -1,68 +1,76 @@
 class Solution {
-    struct BIT {
-        vector<int> tree;
+    
+    struct FT {
+        vector<int> t;
 
-        BIT(int n) {
-            tree.assign(n + 2, 0);
+        FT(int n){
+            t.resize(n+3);
+            for(int i=0;i<t.size();i++) t[i]=0;
         }
 
-        void update(int idx, int val) {
-            idx++;
-            while (idx < tree.size()) {
-                tree[idx] = max(tree[idx], val);
-                idx += idx & -idx;
+        void upd(int i,int v){
+            i++;
+            while(i<t.size()){
+                if(t[i]<v) t[i]=v;
+                i += (i & -i);
             }
         }
 
-        int getMax(int idx) {
-            idx++;
-            int ans = 0;
-            while (idx > 0) {
-                ans = max(ans, tree[idx]);
-                idx -= idx & -idx;
+        int get(int i){
+            i++;
+            int r=0;
+            while(i>0){
+                if(t[i]>r) r=t[i];
+                i -= (i & -i);
             }
-            return ans;
+            return r;
         }
     };
 
 public:
     int maxFixedPoints(vector<int>& nums) {
+        
         int n = nums.size();
 
-        vector<pair<int, int>> valid;
+        vector<pair<int,int>> ok;
 
-        for (int i = 0; i < n; i++) {
-            if (nums[i] <= i) {
-                int value = nums[i];
-                int gap = i - nums[i];
-                valid.push_back({value, gap});
+        for(int i=0;i<n;i++){
+            if(nums[i]<=i){
+                ok.push_back({nums[i], i-nums[i]});
             }
         }
 
-        sort(valid.begin(), valid.end());
+        sort(ok.begin(), ok.end());
 
-        BIT bit(n);
-        int ans = 0;
+        FT f(n);
 
-        int i = 0;
-        while (i < valid.size()) {
-            int value = valid[i].first;
-            vector<pair<int, int>> updates;
+        int ans=0;
 
-            while (i < valid.size() && valid[i].first == value) {
-                int gap = valid[i].second;
+        int i=0;
 
-                int bestBefore = bit.getMax(gap);
-                int curr = bestBefore + 1;
+        while(i<ok.size()){
 
-                updates.push_back({gap, curr});
-                ans = max(ans, curr);
+            int val = ok[i].first;
+
+            vector<pair<int,int>> tmp;
+
+            while(i<ok.size() && ok[i].first==val){
+
+                int g = ok[i].second;
+
+                int best = f.get(g);
+
+                int cur = best + 1;
+
+                tmp.push_back({g,cur});
+
+                if(cur>ans) ans=cur;
 
                 i++;
             }
 
-            for (auto& it : updates) {
-                bit.update(it.first, it.second);
+            for(int j=0;j<tmp.size();j++){
+                f.upd(tmp[j].first , tmp[j].second);
             }
         }
 
