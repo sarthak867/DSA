@@ -1,19 +1,31 @@
 class Solution {
 public:
     int rotatedDigits(int n) {
-        int cnt = 0;
-        for(int i = 1 ; i <= n ; i++){
-            int check = i;
-            bool valid = true;
-            bool changed = false;
-            while(check > 0 && valid){
-                int digit = check % 10;
-                if(digit == 3 || digit == 4 || digit == 7) valid = false;
-                else if(digit == 2 || digit == 5 || digit == 6 || digit == 9) changed = true;
-                check /= 10;
+        vector<int> dp(n + 1, 0);
+        int count = 0;
+
+        for(int i = 0; i <= n; i++){
+            if(i < 10){
+                if(i == 0 || i == 1 || i == 8) dp[i] = 1;
+                else if(i == 2 || i == 5 || i == 6 || i == 9){
+                    dp[i] = 2;
+                    count++;
+                }
+                else dp[i] = 0;
             }
-            if(valid && changed) cnt++;
+            else{
+                int a = dp[i / 10];
+                int b = dp[i % 10];
+
+                if(a == 1 && b == 1) dp[i] = 1;
+                else if(a >= 1 && b >= 1){
+                    dp[i] = 2;
+                    count++;
+                }
+                else dp[i] = 0;
+            }
         }
-        return cnt;
+
+        return count;
     }
 };
