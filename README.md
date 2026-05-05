@@ -324,6 +324,7 @@ DSA practice
 | [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/sarthak867/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthak867/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/sarthak867/DSA/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
@@ -439,6 +440,7 @@ DSA practice
 | [0027-remove-element](https://github.com/sarthak867/DSA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarthak867/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sarthak867/DSA/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sarthak867/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0696-count-binary-substrings](https://github.com/sarthak867/DSA/tree/master/0696-count-binary-substrings) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
