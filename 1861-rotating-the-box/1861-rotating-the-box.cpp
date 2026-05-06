@@ -4,27 +4,48 @@ public:
         int row = box.size();
         int col = box[0].size();
 
-        for(int i = 0; i<row; i++){
-            int p=col-1;
-            for(int j = col-1; j>=0;j--){
-                if(box[i][j]=='*'){
-                    p=j-1;
-                    continue;
-                }
-                else if(box[i][j]=='#'){
-                    box[i][j]='.';
-                    box[i][p]='#';
-                    p--;
-                }
-            }
-        }
-        vector<vector<char>> ans(col, vector<char>(row));
+        vector<vector<char>> ans(col, vector<char>(row, '.'));
 
-        for(int i =0 ; i<row;i++){
-            for(int j =0 ; j<col ; j++){
-                ans[j][row-i-1]= box[i][j];
+        for(int i = 0 ; i < row; i++){
+            int c = 0;
+            int last = col - 1;  // 🔥 segment end
+
+            for(int j = col - 1; j >= 0; j--){
+                if(box[i][j] == '#'){
+                    c++;
+                }
+                else if(box[i][j] == '*'){
+                    ans[j][i] = '*';
+
+                    // place stones to the right of obstacle
+                    int k = last;
+                    while(c > 0){
+                        ans[k][i] = '#';
+                        k--;
+                        c--;
+                    }
+
+                    last = j - 1; // next segment
+                }
+            }
+
+            // remaining stones
+            int k = last;
+            while(c > 0){
+                ans[k][i] = '#';
+                k--;
+                c--;
             }
         }
-        return ans;
+
+        // rotate
+        vector<vector<char>> res(col, vector<char>(row));
+        for(int i = 0; i < col; i++){
+            for(int j = 0; j < row; j++){
+                res[i][j] = ans[i][row - 1 - j];
+            }
+        }
+
+        return res;
     }
 };
