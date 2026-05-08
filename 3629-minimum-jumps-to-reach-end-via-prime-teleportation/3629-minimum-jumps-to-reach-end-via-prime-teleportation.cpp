@@ -17,19 +17,18 @@ public:
         int n = nums.size();
         unordered_map<int, vector<int>> edges;
         for (int i = 0; i < n; ++i) {
-            int a = nums[i];
-            if (factors[a].size() == 1) {
-                edges[a].push_back(i);
+            for (int p : factors[nums[i]]) {
+                edges[p].push_back(i);
             }
         }
         int res = 0;
         vector<bool> seen(n, false);
-        seen[n - 1] = true;
-        vector<int> q = {n - 1};
+        seen[0] = true;
+        vector<int> q = {0};
         while (true) {
             vector<int> q2;
             for (int i : q) {
-                if (i == 0) return res;
+                if (i == n - 1) return res;
                 if (i > 0 && !seen[i - 1]) {
                     seen[i - 1] = true;
                     q2.push_back(i - 1);
@@ -38,7 +37,8 @@ public:
                     seen[i + 1] = true;
                     q2.push_back(i + 1);
                 }
-                for (int p : factors[nums[i]]) {
+                if (factors[nums[i]].size() == 1) {
+                    int p = nums[i];
                     if (edges.count(p)) {
                         for (int j : edges[p]) {
                             if (!seen[j]) {
