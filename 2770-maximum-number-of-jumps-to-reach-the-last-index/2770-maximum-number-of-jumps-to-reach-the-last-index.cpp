@@ -1,26 +1,22 @@
-int dp [1000];
 class Solution {
 public:
-    static int dfs(int i, vector<int>& nums, int target) {
-        if (i==0)
-            return dp[i]=0;
+    int maximumJumps(vector<int>& nums, int target) {
+        int n = nums.size();
+        // dp array to store max jumps till index i
+        vector<int> dp(n, -1);
 
-        if (dp[i]!=-1)
-            return dp[i];
+        // First index is reachable with 0 jumps
+        dp[0]=0;
 
-        int ans=INT_MIN;
-        for (int j=0; j<i; j++) {
-            if (abs(nums[j]-nums[i])<=target) {
-                ans=max(ans , 1+dfs(j, nums, target));
+        for(int i=1; i<n; i++) {
+            for(int j=0; j<i; j++) {
+                // Check if the condition holds true and prev index was visited
+                if(abs(nums[i]-nums[j]) <= target && dp[j]>-1) {
+                    dp[i] = max(dp[i], 1+dp[j]);
+                }
             }
         }
-        return dp[i]=ans;
-    }
 
-    static int maximumJumps(vector<int>& nums, int target) {
-        int n=nums.size();
-        memset(dp, -1, sizeof(int)*n);
-        int ans=dfs(n-1, nums,  target);
-        return  ans<0?-1:ans;
+        return dp[n-1];
     }
 };
