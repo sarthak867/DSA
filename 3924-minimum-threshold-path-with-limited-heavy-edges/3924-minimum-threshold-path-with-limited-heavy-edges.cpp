@@ -1,124 +1,78 @@
 class Solution {
+
+    vector<vector<int>> edges;
+    int source;
+    int target;
+    int k;
+    int n;
+    vector<vector<vector<int>>> adj;
+
+    bool check(int mid) {
+
+        vector<int> dist(n, 1e9);
+        dist[source] = 0;
+        // 0-1 BFS uses a deque
+        deque<int> dq;
+        dq.push_back(source);
+
+        while (!dq.empty()) {
+            int u = dq.front();
+            dq.pop_front();
+
+            for (auto &e : adj[u]) {
+                int v = e[0];
+                // check heavy or light according to threshold
+                // light: 0 and heavy: 1
+                int len = (e[1] > mid ? 1 : 0);
+                if (dist[u] + len < dist[v]) {
+                    dist[v] = dist[u] + len;
+                    // front the deque as this would be the lowest distance till now
+                    if (len == 0)
+                        dq.push_front(v);
+                    else
+                        dq.push_back(v);
+                }
+            }
+        }
+
+        // check if we can reach by using atmost k heavy edges
+        return dist[target] <= k;
+    }
+    
 public:
-    int minimumThreshold(int n, vector<vector<int>>& edges, int src, int dest,
-                         int k) {
-
-        vector<vector<pair<int, int>>> adj(n);
-
-        int hi = build(edges, adj);
-
-        if (src == dest) {
-            return 0;
-        }
-
-        if (!possible(adj, src, dest, k, hi, n)) {
-            return -1;
-        }
-
+    int minimumThreshold(int n, vector<vector<int>>& edges, int source, int target, int k) {
         int low = 0;
+        int high = 1e9 + 1;
 
-        while (low < hi) {
+        this->n = n;
+        this->edges = edges;
+        this->source = source;
+        this->target = target;
+        this->k = k;
 
-            int mid = low + ((hi - low) >> 1);
+        adj = vector<vector<vector<int>>> (n);
 
-            if (possible(adj, src, dest, k, mid, n)) {
-                hi = mid;
+        // build the graph from edges
+        for (auto &e : edges) {
+            int u = e[0], v = e[1];
+            int len = e[2];
+            adj[u].push_back({v, len});
+            adj[v].push_back({u, len});
+        }
+
+        // check for each threshold
+        int res = -1;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (check(mid)) {
+                // if possible, find better(lower threshold)
+                res = mid;
+                high = mid - 1;
             } else {
                 low = mid + 1;
             }
-
-            noise(mid);
         }
 
-        useless(low);
-
-        return low;
-    }
-
-private:
-    int build(vector<vector<int>>& e, vector<vector<pair<int, int>>>& g) {
-
-        int mx = 0;
-
-        int i = 0;
-
-        while (i < (int)e.size()) {
-
-            int u = e[i][0];
-            int v = e[i][1];
-            int w = e[i][2];
-
-            g[u].push_back(make_pair(v, w));
-            g[v].push_back(make_pair(u, w));
-
-            mx = (mx > w ? mx : w);
-
-            ++i;
-        }
-
-        return mx;
-    }
-
-    bool possible(vector<vector<pair<int, int>>>& g, int s, int t, int limit,
-                  int barrier, int n) {
-
-        vector<int> dist(n, (int)1e9);
-
-        deque<int> dq;
-
-        dist[s] = 0;
-
-        dq.push_back(s);
-
-        while (!dq.empty()) {
-
-            int node = dq.front();
-            dq.pop_front();
-
-            int idx = 0;
-
-            while (idx < (int)g[node].size()) {
-
-                int to = g[node][idx].first;
-                int wt = g[node][idx].second;
-
-                int cost = mark(wt, barrier);
-
-                if (dist[to] > dist[node] + cost) {
-
-                    dist[to] = dist[node] + cost;
-
-                    pushSide(dq, to, cost);
-                }
-
-                ++idx;
-            }
-        }
-
-        return dist[t] <= limit;
-    }
-
-    int mark(int w, int lim) { return (w > lim); }
-
-    void pushSide(deque<int>& dq, int x, int type) {
-
-        if (type) {
-            dq.push_back(x);
-        } else {
-            dq.push_front(x);
-        }
-    }
-
-    // ===== junk =====
-
-    void noise(int x) {
-        if (x == 1)
-            x++;
-        return;
-    }
-
-    void useless(int z) {
-        volatile int hold = z;
-        (void)hold;
+        return res;
     }
 };
