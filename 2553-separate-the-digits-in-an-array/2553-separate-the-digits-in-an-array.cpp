@@ -3,12 +3,15 @@ public:
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> ans;
         for(int i : nums){
-            vector<int> temp;
+            stack<int> temp;
             while(i){
-                temp.push_back(i%10);
+                temp.push(i%10);
                 i/=10;
             }
-            ans.insert(ans.end(), temp.rbegin(), temp.rend());
+            while(!temp.empty()){
+                ans.push_back(temp.top());
+                temp.pop();
+            }
         }
         return ans;
     }
