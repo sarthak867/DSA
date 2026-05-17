@@ -39,6 +39,7 @@ DSA practice
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
+| [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
@@ -242,6 +243,7 @@ DSA practice
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -255,6 +257,7 @@ DSA practice
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
