@@ -40,6 +40,7 @@ DSA practice
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/sarthak867/DSA/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
@@ -121,6 +122,7 @@ DSA practice
 | [0451-sort-characters-by-frequency](https://github.com/sarthak867/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/sarthak867/DSA/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sarthak867/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -259,6 +261,7 @@ DSA practice
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1345-jump-game-iv](https://github.com/sarthak867/DSA/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3310-remove-methods-from-project](https://github.com/sarthak867/DSA/tree/master/3310-remove-methods-from-project) |
