@@ -70,6 +70,7 @@ DSA practice
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak867/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sarthak867/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/sarthak867/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarthak867/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
@@ -128,6 +129,7 @@ DSA practice
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sarthak867/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2540-minimum-common-value](https://github.com/sarthak867/DSA/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/sarthak867/DSA/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sarthak867/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -204,6 +206,7 @@ DSA practice
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak867/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2540-minimum-common-value](https://github.com/sarthak867/DSA/tree/master/2540-minimum-common-value) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthak867/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -476,6 +479,7 @@ DSA practice
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak867/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sarthak867/DSA/tree/master/1861-rotating-the-box) |
 | [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/sarthak867/DSA/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sarthak867/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
