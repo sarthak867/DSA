@@ -1,44 +1,35 @@
 class Solution {
 public:
-    int digits(int x) {
-        int cnt = 0;
-        while(x > 0) {
-            cnt++;
-            x /= 10;
-        }
-        return cnt;
-    }
-
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
-        unordered_set<int> prefixes;
+        unordered_set<int> arr1Prefixes;  // Set to store all prefixes from arr1
 
-        // storing all prefixes of arr1
-        for(int num : arr1) {
-            int x = num;
-            while(x > 0) {
-                prefixes.insert(x);
-                x /= 10;
+        // Step 1: Build all possible prefixes from arr1
+        for (int val : arr1) {
+            while (!arr1Prefixes.count(val) && val > 0) {
+                // Insert current value as a prefix
+                arr1Prefixes.insert(val);
+                // Generate the next shorter prefix by removing the last digit
+                val /= 10;
             }
         }
 
-        int ans = 0;
+        int longestPrefix = 0;
 
-        // check prefixes of arr2 numbers
-        for(int num : arr2) {
-            int x = num;
-            int len = digits(num);
-
-            // checking from larger => smaller
-            while(x > 0) {
-                if(prefixes.count(x)) {
-                    ans = max(ans, len);
-                    break;// first match is the longest, so we stop
-                }
-                x /= 10;
-                len--;
+        // Step 2: Check each number in arr2 for the longest matching prefix
+        for (int val : arr2) {
+            while (!arr1Prefixes.count(val) && val > 0) {
+                // Reduce val by removing the last digit if not found in the
+                // prefix set
+                val /= 10;
+            }
+            if (val > 0) {
+                // Length of the matched prefix using log10 to determine the
+                // number of digits
+                longestPrefix =
+                    max(longestPrefix, static_cast<int>(log10(val) + 1));
             }
         }
 
-        return ans;
+        return longestPrefix;
     }
 };
