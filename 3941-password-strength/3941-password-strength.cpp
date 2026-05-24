@@ -1,12 +1,12 @@
 class Solution {
 public:
-    int passwordStrength(string p) {
-        unordered_map <char,int> mp;
-        for(char c : p){
-            mp[c]++;
+    int passwordStrength(string password) {
+        unordered_set <char> s;
+        for(char c : password){
+            s.insert(c);
         }
-        int ans=0;
-        for(auto [a,b] : mp){
+        int ans =0;
+        for(char a : s){
             if(a>='a' && a<='z') ans++;
             else if(a>='A' && a<='Z') ans+=2;
             else if(a>='0' && a<='9') ans += 3;
