@@ -1,19 +1,19 @@
 class Solution {
 public:
     vector<int> limitOccurrences(vector<int>& nums, int k) {
-        int c =1, l = nums[0];
-        for(int i =1 ; i<nums.size(); i++){
-            if(nums[i]== l){
+        vector <int> ans;
+        int c =0, l=-1;
+        for(int i : nums){
+            if(i==l){
                 c++;
             }else{
-                c=1;
-                l=nums[i];
+                c=0;
+                l=i;
             }
-            if(c>k){
-                nums.erase(nums.begin()+i);
-                i--;
+            if(c<k){
+                ans.push_back(i);
             }
         }
-        return nums;
+        return ans;
     }
 };
