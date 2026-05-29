@@ -402,6 +402,7 @@ DSA practice
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthak867/DSA/tree/master/1914-cyclically-rotating-a-grid) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/sarthak867/DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2069-walking-robot-simulation-ii](https://github.com/sarthak867/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthak867/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarthak867/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -453,6 +454,7 @@ DSA practice
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sarthak867/DSA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/sarthak867/DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthak867/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/sarthak867/DSA/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2047-number-of-valid-words-in-a-sentence](https://github.com/sarthak867/DSA/tree/master/2047-number-of-valid-words-in-a-sentence) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sarthak867/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
