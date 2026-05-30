@@ -25,6 +25,7 @@ DSA practice
 | [0048-rotate-image](https://github.com/sarthak867/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sarthak867/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sarthak867/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sarthak867/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sarthak867/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -165,6 +166,7 @@ DSA practice
 | [0029-divide-two-integers](https://github.com/sarthak867/DSA/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sarthak867/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sarthak867/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/sarthak867/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarthak867/DSA/tree/master/0273-integer-to-english-words) |
