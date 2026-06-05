@@ -202,6 +202,7 @@ DSA practice
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sarthak867/DSA/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthak867/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sarthak867/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sarthak867/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3782-last-remaining-integer-after-alternating-deletion-operations](https://github.com/sarthak867/DSA/tree/master/3782-last-remaining-integer-after-alternating-deletion-operations) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sarthak867/DSA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -558,6 +559,7 @@ DSA practice
 | [3742-maximum-path-score-in-a-grid](https://github.com/sarthak867/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3747-count-distinct-integers-after-removing-zeros](https://github.com/sarthak867/DSA/tree/master/3747-count-distinct-integers-after-removing-zeros) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sarthak867/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/sarthak867/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Stack
 |  |
 | ------- |
