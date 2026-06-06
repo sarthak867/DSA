@@ -78,6 +78,7 @@ DSA practice
 | [2540-minimum-common-value](https://github.com/sarthak867/DSA/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sarthak867/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
+| [2574-left-and-right-sum-differences](https://github.com/sarthak867/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthak867/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2659-make-array-empty](https://github.com/sarthak867/DSA/tree/master/2659-make-array-empty) |
@@ -685,6 +686,7 @@ DSA practice
 | [1871-jump-game-vii](https://github.com/sarthak867/DSA/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/sarthak867/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2574-left-and-right-sum-differences](https://github.com/sarthak867/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/sarthak867/DSA/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/sarthak867/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sarthak867/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
