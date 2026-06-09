@@ -40,6 +40,7 @@ DSA practice
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/sarthak867/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sarthak867/DSA/tree/master/1345-jump-game-iv) |
@@ -139,6 +140,7 @@ DSA practice
 | [0451-sort-characters-by-frequency](https://github.com/sarthak867/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1345-jump-game-iv](https://github.com/sarthak867/DSA/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
@@ -509,6 +511,7 @@ DSA practice
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak867/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sarthak867/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1871-jump-game-vii](https://github.com/sarthak867/DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthak867/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Two Pointers
@@ -622,6 +625,7 @@ DSA practice
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sarthak867/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sarthak867/DSA/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
