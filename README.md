@@ -182,6 +182,7 @@ DSA practice
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/sarthak867/DSA/tree/master/0273-integer-to-english-words) |
 | [0343-integer-break](https://github.com/sarthak867/DSA/tree/master/0343-integer-break) |
+| [0365-water-and-jug-problem](https://github.com/sarthak867/DSA/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
 | [0470-implement-rand10-using-rand7](https://github.com/sarthak867/DSA/tree/master/0470-implement-rand10-using-rand7) |
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
@@ -275,6 +276,7 @@ DSA practice
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0365-water-and-jug-problem](https://github.com/sarthak867/DSA/tree/master/0365-water-and-jug-problem) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -292,6 +294,7 @@ DSA practice
 | ------- |
 | [0101-symmetric-tree](https://github.com/sarthak867/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/sarthak867/DSA/tree/master/0365-water-and-jug-problem) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/sarthak867/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
