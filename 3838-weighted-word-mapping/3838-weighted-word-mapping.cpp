@@ -8,7 +8,6 @@ public:
                 int ind = c - 'a' ;
                 sum = (sum + weights[ind])%26;
             }
-            // sum %= 26;
             sum = 26 - sum;
             char ch = 'a' + sum -1;
             ans += ch;
