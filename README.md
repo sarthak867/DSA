@@ -414,6 +414,7 @@ DSA practice
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthak867/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sarthak867/DSA/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthak867/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sarthak867/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -549,6 +550,7 @@ DSA practice
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sarthak867/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sarthak867/DSA/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthak867/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthak867/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/sarthak867/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/sarthak867/DSA/tree/master/2540-minimum-common-value) |
@@ -600,6 +602,7 @@ DSA practice
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sarthak867/DSA/tree/master/0394-decode-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthak867/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
