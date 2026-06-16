@@ -7,28 +7,16 @@ public:
             char c = s[i];
             if (c == '*') {
                 if (ans.size() > 0) {
-                    if (rev) {
-                        string_view view(ans);
-                        view.remove_prefix(1);
-                        ans = string(view);
-                    } else {
-                        ans.pop_back();
-                    }
+                    ans.pop_back();
                 }
             } else if (c == '#') {
                 ans += ans;
             } else if (c == '%') {
-                rev = !rev;
+                reverse(ans.begin(), ans.end());
             } else {
-                if (rev) {
-                    ans = c + ans;
-                } else {
-                    ans += c;
-                }
+                ans += c;
             }
         }
-        if (rev)
-            reverse(ans.begin(), ans.end());
         return ans;
     }
 };
