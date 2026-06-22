@@ -658,6 +658,7 @@ DSA practice
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sarthak867/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak867/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3950-exactly-one-consecutive-set-bits-pair](https://github.com/sarthak867/DSA/tree/master/3950-exactly-one-consecutive-set-bits-pair) |
 ## Counting
 |  |
 | ------- |
