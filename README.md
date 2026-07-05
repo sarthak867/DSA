@@ -41,6 +41,7 @@ DSA practice
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/sarthak867/DSA/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/sarthak867/DSA/tree/master/1345-jump-game-iv) |
@@ -616,6 +617,7 @@ DSA practice
 | [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
+| [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sarthak867/DSA/tree/master/1340-jump-game-v) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
@@ -735,6 +737,7 @@ DSA practice
 | [0036-valid-sudoku](https://github.com/sarthak867/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sarthak867/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sarthak867/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
