@@ -744,6 +744,7 @@ DSA practice
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/sarthak867/DSA/tree/master/1291-sequential-digits) |
 | [2708-maximum-strength-of-a-group](https://github.com/sarthak867/DSA/tree/master/2708-maximum-strength-of-a-group) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sarthak867/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sarthak867/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
