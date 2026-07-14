@@ -113,6 +113,7 @@ DSA practice
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sarthak867/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthak867/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sarthak867/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3379-transformed-array](https://github.com/sarthak867/DSA/tree/master/3379-transformed-array) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak867/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthak867/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -233,6 +234,7 @@ DSA practice
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sarthak867/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sarthak867/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sarthak867/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sarthak867/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthak867/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sarthak867/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak867/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -652,6 +654,7 @@ DSA practice
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sarthak867/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sarthak867/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sarthak867/DSA/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sarthak867/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sarthak867/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sarthak867/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/sarthak867/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -736,6 +739,7 @@ DSA practice
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/sarthak867/DSA/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sarthak867/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sarthak867/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Brainteaser
 |  |
