@@ -41,6 +41,7 @@ DSA practice
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1260-shift-2d-grid](https://github.com/sarthak867/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/sarthak867/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
@@ -511,6 +512,7 @@ DSA practice
 | [0067-add-binary](https://github.com/sarthak867/DSA/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/sarthak867/DSA/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/sarthak867/DSA/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sarthak867/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -776,6 +778,7 @@ DSA practice
 | [0036-valid-sudoku](https://github.com/sarthak867/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sarthak867/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/sarthak867/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
