@@ -39,6 +39,7 @@ DSA practice
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/sarthak867/DSA/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sarthak867/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1260-shift-2d-grid](https://github.com/sarthak867/DSA/tree/master/1260-shift-2d-grid) |
@@ -220,6 +221,7 @@ DSA practice
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthak867/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak867/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sarthak867/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -652,6 +654,7 @@ DSA practice
 | [0396-rotate-function](https://github.com/sarthak867/DSA/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sarthak867/DSA/tree/master/1340-jump-game-v) |
@@ -946,4 +949,8 @@ DSA practice
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sarthak867/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
