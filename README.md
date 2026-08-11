@@ -953,4 +953,8 @@ DSA practice
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
