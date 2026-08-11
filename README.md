@@ -957,4 +957,8 @@ DSA practice
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak867/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
