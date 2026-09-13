@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-days-to-score-exactly-n-points/">4406. Minimum Days to Score Exactly N Points</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code> representing a target score.</p>
+<h2><a href="https://leetcode.com/problems/minimum-days-to-score-exactly-n-points">4406. Minimum Days to Score Exactly N Points</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code> representing a target score.</p>
 
 <p>Your score starts at 0, and each day you either <strong>earn</strong> points or <strong>skip</strong>.</p>
 
