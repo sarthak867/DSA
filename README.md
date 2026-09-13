@@ -37,6 +37,7 @@ DSA practice
 | [0667-beautiful-arrangement-ii](https://github.com/sarthak867/DSA/tree/master/0667-beautiful-arrangement-ii) |
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sarthak867/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/sarthak867/DSA/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sarthak867/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0874-walking-robot-simulation](https://github.com/sarthak867/DSA/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
@@ -786,6 +787,7 @@ DSA practice
 | [0036-valid-sudoku](https://github.com/sarthak867/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/sarthak867/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak867/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/sarthak867/DSA/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/sarthak867/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
