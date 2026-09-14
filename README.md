@@ -224,6 +224,7 @@ DSA practice
 | [0679-24-game](https://github.com/sarthak867/DSA/tree/master/0679-24-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sarthak867/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/sarthak867/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sarthak867/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/sarthak867/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -265,6 +266,7 @@ DSA practice
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/sarthak867/DSA/tree/master/0836-rectangle-overlap) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sarthak867/DSA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sarthak867/DSA/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Binary Search
