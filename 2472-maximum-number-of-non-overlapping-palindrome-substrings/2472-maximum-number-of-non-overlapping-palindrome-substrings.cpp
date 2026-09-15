@@ -1,27 +1,27 @@
 class Solution {
 public:
     int maxPalindromes(string s, int k) {
-        int n = s.size();
-        if (k == 1) return n;
+        int n = s.size(), lastEnd = 0, count = 0;
 
-        int res = 0;
+        for (int center = 0; center < 2 * n; center++) {
+            int left = center / 2;
+            int right = left + center % 2;
 
-        auto check = [&](int l, int r) {
-            for (; l < r; l++, r--)
-                if (s[l] != s[r]) return 0;
-            return 1;
-        };
+            while (left >= 0 && right < n && s[left] == s[right]) {
+                if (right - left + 1 >= k) {
+                    int end = right + 1;
 
-        for (int i = 0; i <= n - k; i++) {
-            if (check(i, i + k - 1)) {
-                res++;
-                i += k - 1;
-            } else if (i < n - k && check(i, i + k)) {
-                res++;
-                i += k;
+                    if (left >= lastEnd)
+                        lastEnd = end, count++;
+                    else
+                        lastEnd = min(lastEnd, end);
+
+                    break;
+                }
+                left--, right++;
             }
         }
 
-        return res;
+        return count;
     }
 };
