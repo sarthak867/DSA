@@ -322,6 +322,7 @@ DSA practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/sarthak867/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -338,6 +339,7 @@ DSA practice
 | [0365-water-and-jug-problem](https://github.com/sarthak867/DSA/tree/master/0365-water-and-jug-problem) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/sarthak867/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1306-jump-game-iii](https://github.com/sarthak867/DSA/tree/master/1306-jump-game-iii) |
@@ -379,6 +381,7 @@ DSA practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0563-binary-tree-tilt](https://github.com/sarthak867/DSA/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sarthak867/DSA/tree/master/0662-maximum-width-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/sarthak867/DSA/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/sarthak867/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -663,6 +666,7 @@ DSA practice
 | [0788-rotated-digits](https://github.com/sarthak867/DSA/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/sarthak867/DSA/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/sarthak867/DSA/tree/master/0877-stone-game) |
+| [0968-binary-tree-cameras](https://github.com/sarthak867/DSA/tree/master/0968-binary-tree-cameras) |
 | [1301-number-of-paths-with-max-score](https://github.com/sarthak867/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/sarthak867/DSA/tree/master/1340-jump-game-v) |
@@ -971,4 +975,8 @@ DSA practice
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sarthak867/DSA/tree/master/0051-n-queens) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/sarthak867/DSA/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
