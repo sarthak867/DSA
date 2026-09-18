@@ -175,6 +175,7 @@ DSA practice
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sarthak867/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/sarthak867/DSA/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthak867/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sarthak867/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/sarthak867/DSA/tree/master/1980-find-unique-binary-string) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -397,6 +398,7 @@ DSA practice
 | [0011-container-with-most-water](https://github.com/sarthak867/DSA/tree/master/0011-container-with-most-water) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthak867/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sarthak867/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1537-get-the-maximum-score](https://github.com/sarthak867/DSA/tree/master/1537-get-the-maximum-score) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarthak867/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -452,6 +454,7 @@ DSA practice
 | [1331-rank-transform-of-an-array](https://github.com/sarthak867/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/sarthak867/DSA/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sarthak867/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthak867/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sarthak867/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sarthak867/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/sarthak867/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -586,6 +589,7 @@ DSA practice
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/sarthak867/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1419-minimum-number-of-frogs-croaking](https://github.com/sarthak867/DSA/tree/master/1419-minimum-number-of-frogs-croaking) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sarthak867/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sarthak867/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sarthak867/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sarthak867/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
