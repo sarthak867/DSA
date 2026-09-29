@@ -86,6 +86,7 @@ DSA practice
 | [2161-partition-array-according-to-given-pivot](https://github.com/sarthak867/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/sarthak867/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sarthak867/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthak867/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sarthak867/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak867/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/sarthak867/DSA/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -690,6 +691,7 @@ DSA practice
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sarthak867/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1871-jump-game-vii](https://github.com/sarthak867/DSA/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sarthak867/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthak867/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/sarthak867/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sarthak867/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
@@ -825,6 +827,7 @@ DSA practice
 | [1914-cyclically-rotating-a-grid](https://github.com/sarthak867/DSA/tree/master/1914-cyclically-rotating-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/sarthak867/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sarthak867/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthak867/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2573-find-the-string-with-lcp](https://github.com/sarthak867/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sarthak867/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sarthak867/DSA/tree/master/2906-construct-product-matrix) |
@@ -994,4 +997,8 @@ DSA practice
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/sarthak867/DSA/tree/master/0968-binary-tree-cameras) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthak867/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
