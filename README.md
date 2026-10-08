@@ -584,6 +584,7 @@ DSA practice
 | [0761-special-binary-string](https://github.com/sarthak867/DSA/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/sarthak867/DSA/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/sarthak867/DSA/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sarthak867/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/sarthak867/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sarthak867/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sarthak867/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -721,6 +722,7 @@ DSA practice
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthak867/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0224-basic-calculator](https://github.com/sarthak867/DSA/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/sarthak867/DSA/tree/master/0394-decode-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sarthak867/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/sarthak867/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sarthak867/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/sarthak867/DSA/tree/master/2751-robot-collisions) |
@@ -1000,5 +1002,6 @@ DSA practice
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/sarthak867/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sarthak867/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
